@@ -6,7 +6,7 @@ The purpose of this analysis is to compare the fares between rural, suburban, an
 ## Results
 ### Averages
 ![PyBer_dataframe_summary.png](/analysis/PyBer_dataframe_summary.png)
-Above is a dataframe summarizing the average fare per ride and per driver for each city type. From this, it can be seen that the lower the amount of rides and drivers, the higher the fair on average. This results in the average PyBer ride in a rural city being about ten dollars more expensive than in an urban city. Additionally, for both rural and suburban cities, there are more drivers than rides, which results in the average fare per ride being lower than the average fare per driver. In urban cities, however, the high amount of drivers compared to rides results in a driver paying more for a PyBer ride than getting paid for driving on PyBer.
+This dataframe summarizes the average fare per ride and per driver for each city type. From the dataframe, it can be seen that the lower the amount of rides and drivers, the higher the fair on average. This results in the average PyBer ride in a rural city being about ten dollars more expensive than in an urban city. Additionally, for both rural and suburban cities, there are more drivers than rides, which results in the average fare per ride being lower than the average fare per driver. In urban cities, however, the high amount of drivers compared to rides results in a driver paying more for a PyBer ride than getting paid for driving on PyBer.
 
 
 ### Totals
